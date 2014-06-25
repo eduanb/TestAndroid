@@ -1,4 +1,5 @@
-//My First Example!2
+//My First Example!
+//Comment on line 2
 package com.example.helloworld;
 
 import android.app.Activity;
